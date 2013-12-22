@@ -1,7 +1,4 @@
 {
-  "name": "s-context-middleware",
-  "version": "1.0.0",
-  "publishConfig": {
-    "registry": "https://registry.segment.io"
-  }
+  "name": "context-middleware",
+  "version": "1.0.0"
 }

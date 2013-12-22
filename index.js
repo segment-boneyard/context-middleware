@@ -5,7 +5,6 @@
 
 module.exports = context;
 
-
 /**
  * Generate a new context middleware that adds `req.context`.
  *
